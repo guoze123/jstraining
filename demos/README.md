@@ -306,7 +306,7 @@ $ npm install
 $ npm start
 ```
 
-（3） 打开浏览器，访问 http://localhost:8080，查看结果，并仔细研究`app/`目录下面的代码。
+（3） 打开浏览器，访问 http://localhost:8080 ，查看结果，并仔细研究`app/`目录下面的代码。
 
 ### 注意事项
 
@@ -362,7 +362,7 @@ $ npm install
 $ npm start
 ```
 
-（2）打开浏览器，访问 http://localhost:8080，查看结果，并仔细研究代码。
+（2）打开浏览器，访问 http://localhost:8080 ，查看结果，并仔细研究代码。
 
 ### 注意事项
 
@@ -527,7 +527,7 @@ $ npm run build
 
 ### 操作步骤
 
-（1） 命令行进入`rest-api-demo`目录，执行下面的命令。
+（1） 命令行进入`demos/rest-api-demo`目录，执行下面的命令。
 
 ```bash
 $ npm install -S json-server
